@@ -1,0 +1,58 @@
+$purple: #511896;
+$link-color: #774DA8;
+$code-pink: #e83e8c;
+$highlight-color: #f7f7f9;
+$twitter_blue: #1DA1F2;
+
+$font-family-headings: 'Special Elite', monospace;
+$font-family-sans-serif: 'Exo 2', sans-serif;
+
+body {
+    font-family: $font-family-sans-serif;
+
+    h1, h2, h3, h4, h5, h6, .site-title {
+        font-family: $font-family-headings;
+        letter-spacing: 2px;
+        color: $purple;
+    }
+    
+    a {
+        color: $link-color;
+    
+        &:hover {
+            text-decoration: none;
+            border-bottom: 1px dotted;
+            color: darken($link-color, 10%);
+        }
+    }
+
+    .site-header {
+        border-top: 0;
+        background-color: $purple;
+        
+        .site-title {
+            padding-bottom: 0;
+            margin-bottom: 0;
+        }
+        
+        a {
+            color: $highlight-color !important;
+        }
+
+        .menu-icon {
+            svg {
+                fill: $purple;
+            }
+        }
+    }
+}
+
+@include media-query($on-palm) {
+    .site-header {
+        .trigger {
+            a {
+                color: $purple !important;
+            }
+        }
+    }
+}
