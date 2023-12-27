@@ -9,7 +9,7 @@ When asked what kind of cake he'd like for his birthday my husband responded wit
 
 ![Portal Cake](/assets/2023-11-25-portal_cake.jpeg){:.img-center}
 
-So that's what I did
+Which is the [cake from Portal](https://theportalwiki.com/wiki/Cake) and was apparently inspired by a black forest gateaux. Not knowing this, I took a stab in the dark and made a visually similar cake.
 
 {:.gallery.two-by-one}
 ![Real cake](/assets/2023-11-15-real_cake.jpeg)
@@ -84,3 +84,5 @@ I think I did OK. While this cake is not a lie, it IS lying, from the outside it
 ## Inspiration
 
 The white chocolate cake is based on this [White Chocolate Cake by liv for cake](https://livforcake.com/white-chocolate-cake/). The ganache and butter icing are generic.
+
+And of course: [Portal](https://store.steampowered.com/app/400/Portal/).
