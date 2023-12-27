@@ -15,10 +15,10 @@ body {
         letter-spacing: 2px;
         color: $purple;
     }
-    
+
     a {
         color: $link-color;
-    
+
         &:hover {
             text-decoration: none;
             border-bottom: 1px dotted;
@@ -29,12 +29,12 @@ body {
     .site-header {
         border-top: 0;
         background-color: $purple;
-        
+
         .site-title {
             padding-bottom: 0;
             margin-bottom: 0;
         }
-        
+
         a {
             color: $highlight-color !important;
         }
@@ -64,7 +64,6 @@ body {
     }
     .two-by-one {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(1, 25%);
     }
 
     .four-by-two {
