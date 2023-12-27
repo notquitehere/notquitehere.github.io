@@ -38,6 +38,7 @@ permalink: /:title
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-octicons
 
 # Exclude from processing.
 # The following items will not be processed, by default.
