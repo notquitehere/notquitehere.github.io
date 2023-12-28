@@ -48,7 +48,7 @@ body {
 
     .img-center {
         display: block;
-        margin: 0 auto;
+        margin: 0 auto 1em;
         max-width: 50%;
     }
 
@@ -93,6 +93,16 @@ body {
         color: #245269;
         background-color: #d9edf7;
         border-color: #bce8f1
+    }
+
+    pre {
+        border-radius: 5px;
+    }
+
+    .footnotes {
+        border-top: 1px solid #828282aa;
+        padding-top: 1em;
+        margin-top: 2em;
     }
 }
 
