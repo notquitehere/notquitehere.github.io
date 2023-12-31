@@ -4,6 +4,8 @@ date: 2022-06-25
 published: true
 tags: markdown
 category:
+excerpt: "If you're writing academic style documents in Markdown/HTML it can be handy to be able to automatically number the figures. Here's how to do that using HTML and CSS."
+cover: /assets/2023-06-24-cover.png
 ---
 
 <style>

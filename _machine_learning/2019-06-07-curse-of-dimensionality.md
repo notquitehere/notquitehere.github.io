@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning Notes: The Curse Of Dimensionality'
+title: 'The Curse Of Dimensionality'
 date: 2019-06-07
 modified: 2019-06-12
 tags:

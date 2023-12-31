@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Notes: Model Selection and Evaluation"
+title: "Model Selection and Evaluation"
 date: 2019-06-14
 modified: 2019-07-04
 tags:

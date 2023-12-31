@@ -5,9 +5,8 @@ modified: 2018-07-12
 tags: todo-list, organisation, bullet-journaling
 category: life-hacking
 published: true
+cover: /assets/2018-07-03-bullet_journal_month.jpg
 ---
-
-![](/assets/2018-07-03-bullet_journal_month.jpg)
 
 Some time last year [Binary Kitten](https://twitter.com/binarykitten) introduced me to the concept of [bullet journaling](http://bulletjournal.com/). At the time I didn't think much about it. It was an interesting concept, but I already had a todo list that I was very happy with [todoist](https://en.todoist.com/) and had been using for several years by that point. Why would I need yet another system? OK so there were a few overdue tasks at the top of it that I'd left there "to remind me that they needed doing" in one case for best part of a year, but that's just how todo lists work. Right?
 

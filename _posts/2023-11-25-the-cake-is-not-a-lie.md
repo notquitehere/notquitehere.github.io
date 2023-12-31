@@ -3,6 +3,7 @@ layout: post
 title: "The cake is (not) a lie"
 date: 2023-11-25
 published: true
+excerpt: "Recipe: replicating the Portal Cake."
 ---
 
 When asked what kind of cake he'd like for his birthday my husband responded with this

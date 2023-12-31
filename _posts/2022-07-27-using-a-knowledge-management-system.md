@@ -4,6 +4,8 @@ date: 2022-07-27
 published: true
 tags: pkm, obsidian
 category:
+excerpt: "Using a personal knowledge management system has revitalised my learning and reinforced good habits."
+cover: /assets/2022-07-27-cover.jpg
 ---
 
 When [@BadSpyro](https://twitter.com/badspyro) first introduced me to the concept of knowledge management systems (specifically [Obsidian](https://obsidian.md)) I was a somewhat sceptical. Despite having two degrees, a proclivity for taking notes on anything and everything and a well established index card based system for revision, I am naturally suspicious of tools which claim to improve your productivity as, as Rimmer so beautifully demonstrates, they frequently end up being a distraction from actually getting work done.

@@ -29,6 +29,8 @@ mastodon:
   - username: nqh
     instance: flittermice.club
 
+show_excerpts: true
+
 minima:
   date_format: "%Y-%m-%d"
 
@@ -39,6 +41,39 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-octicons
+
+collections:
+  qtquick:
+    permalink: /:collection/:title
+    output: true
+  machine_learning:
+    permalink: /:collection/:title
+    output: true
+  mathematics:
+    permalink: /:collection/:title
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "machine_learning"
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "qtquick"
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "mathematics"
+    values:
+      layout: post
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

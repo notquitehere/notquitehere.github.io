@@ -26,6 +26,11 @@ body {
         }
     }
 
+    .wrapper {
+        padding: 0 max(4vmin, 20px);
+        max-width: 100%;
+    }
+
     .site-header {
         border-top: 0;
         background-color: $purple;
@@ -104,6 +109,22 @@ body {
         padding-top: 1em;
         margin-top: 2em;
     }
+
+    .cover-img-container {
+        height: 25vh;
+        overflow: hidden;
+        background-position: center;
+        background-size: 100%;
+        background-origin: border-box;
+        background-repeat: no-repeat;
+    }
+
+    .cover-img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+
 }
 
 @include media-query($on-palm) {
@@ -113,5 +134,9 @@ body {
                 color: $purple !important;
             }
         }
+    }
+
+    .img-center {
+        max-width: 100%;
     }
 }

@@ -1,5 +1,5 @@
 ---
-title: 'Math Notes: The Cosine Rule and Dot Product'
+title: 'The Cosine Rule and Dot Product'
 date: 2019-06-07
 modified: 2019-06-07
 tags: math, machine-learning

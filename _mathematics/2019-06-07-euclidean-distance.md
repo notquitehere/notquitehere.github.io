@@ -1,9 +1,8 @@
 ---
-title: 'Math Notes: Euclidean Distance'
+title: 'Euclidean Distance'
 date: 2019-06-07
 modified: 2019-06-07
 tags: machine-learning, math
-category: mathematics
 published: true
 ---
 
