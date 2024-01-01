@@ -52,6 +52,10 @@ collections:
   mathematics:
     permalink: /:collection/:title
     output: true
+  ideas:
+    permalink: /:collection/:title
+    output: true
+
 
 defaults:
   -
@@ -70,6 +74,12 @@ defaults:
     scope:
       path: ""
       type: "mathematics"
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "ideas"
     values:
       layout: post
 
