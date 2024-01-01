@@ -5,6 +5,7 @@ modified: 2018-10-02
 tags: university
 category: University
 published: true
+excerpt: My first week at university was somewhat different to the usual structure. I found myself reflecting on why I'm doing this and focusing myself very much on what I want to get out of it and how to get there.
 ---
 
 This first week involved a lot of introduction to the course and its structure. The tutors were clearly attempting to make very sure that we know:

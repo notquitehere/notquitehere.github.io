@@ -5,6 +5,7 @@ modified: 2018-10-23
 tags: Java, University
 category: Java
 published: true
+excerpt: "Learning Java at university: life lessons. Sometimes it's the silly things that have you stuck for longer than you'd like to admit."
 ---
 
 Overriding the `toString()` method in Java is (theoretically) a very simple thing to do. Most of the tutorials suggest doing basic string concatenation:
