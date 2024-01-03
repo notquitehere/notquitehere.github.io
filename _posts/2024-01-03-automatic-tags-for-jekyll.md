@@ -77,7 +77,7 @@ tag: python
 ---
 ```
 
-That's pretty simple though so it's easy enough to generate a script thats a bit more sophisticated to generate the files for us. To do this effectively we need to:
+That's pretty simple though so it's easy enough to generate a script thats a bit more sophisticated to generate the files for us[^tag-script-link]. To do this effectively we need to:
 
 - [generate a list of the files we already have (existing)](#existing)
 - [generate a list of the tags that are currently in use (valid)](#valid)
@@ -85,6 +85,8 @@ That's pretty simple though so it's easy enough to generate a script thats a bit
 - [remove any files that are existing but not valid](#remove-files)
 
 And finally, because remembering to do things is hard, we should make a git hook that runs the script when we commit.
+
+[^tag-script-link]: The script I use is committed to github along with this blog and can be found here: <https://github.com/notquitehere/notquitehere.github.io/blob/main/_tag_gen.py>
 
 #### Generate a list of existing files {#existing}
 
@@ -153,7 +155,7 @@ for tag in set(existing_tag_files).difference(used_tags):
 
 Local hooks live in `.git/hooks/` which is automatically generated when you initialise a new repository. In order to turn our script into a git hook we need to add an exception (to stop the commit when the tags files change) and a shebang to ensure the correct version of python is being used.
 
-If you're not using a VM (and you don't really need to with this script as it's not relying on anything that isn't supported by stock python) you can link to the python version found by running `which python3` on the command line.
+If you're not using a virtual environment (and you don't really need to with this script as it's not relying on anything that isn't supported by stock python) you can link to the python version found by running `which python3` on the command line.
 
 We also need to add a custom exception to the script to make it clear what the issue is when it fails.
 
