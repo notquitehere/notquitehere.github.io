@@ -75,6 +75,16 @@ body {
         grid-template-rows: repeat(2, 25%);
     }
 
+    .img-left {
+        float: left;
+        margin-right: 1em;
+    }
+
+    .img-right {
+        float: right;
+        margin-left: 1em;
+    }
+
     .alert {
         padding: 15px;
         margin-bottom: 20px;
@@ -138,5 +148,12 @@ body {
 
     .img-center {
         max-width: 100%;
+    }
+
+    body {
+        .img-left, .img-right {
+            float: none;
+            margin: 1em 0;
+        }
     }
 }

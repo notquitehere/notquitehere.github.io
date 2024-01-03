@@ -1,0 +1,85 @@
+---
+title: Frequently Asked Questions
+date: 2010-12-24
+published: true
+tags: considering-culture
+excerpt: Answers to questions I get asked when people find out I live on a boat.
+---
+
+Generally when people find out I live on a boat there are a few questions I get asked.  So often in fact that I thought I’d write this.  Coming in at number one is:
+
+**Isn’t it cold in the winter?**
+
+I usually answer this with no, but yes actually it can be.  It’s cold in the morning when the fire’s not going properly and obviously the colder it is outside the colder it’s likely to be inside. Something which is pretty much true of houses too – think about it, unless you have extremely good insulation your central heating has to work harder to maintain the temperature inside your house when the temperature outside is lower.  And, like houses, there is a great deal of variation between boats.  I live on an old, poorly insulated one, so my fire has to work pretty damn hard in order to keep the place warm.  A lot of the energy I use is wasted, and as a result I don’t bother to try and heat the whole of the boat, I just reduce the space I spend most of my time in.  Newer boats tend to be better insulated and have back boilers on their solid fuel stoves (a bit like a radiator) which move the heat around the boat more effectively.  A revelation for anyone who lives on a particularly cold boat is something called an [ecofan](http://www.ecofan.co.uk/woodstove-ecofans.html) which dramatically improves the area it’s possible to be in without using ANY power or extra fuel. Mine’s old and battered (it’s been knocked off the fire so many times now I’ve lost count) and has a permanent rattle despite my best efforts at reshaping the blades, however it’s still going strong; like Tilley hats they are damn near indestructible.
+
+The alternative to a solid fuel stove is a diesel fired one.  I don’t know much about them other than they are noisy.  If you hire a boat this is the kind of heating you are likely to have.  I suspect they are simpler to use than solid fuel stoves; as anyone who’s ever used one will tell you there’s a ‘knack’ to getting and keeping a fire going and not all stoves respond to the same tricks.  Some live-aboards love diesel heaters, some hate them (one I met recently had bought one, used it for a while and has since taken it out).
+
+**What do you do about, you know, toilets?**
+
+There are two solutions to sewage (actually three but one of them is illegal on inland waterways craft) both of which involve some kind of holding tank.  The first and simplest is a cassette toilet like you’d get in a caravan – sounds nasty but actually isn’t.  Put plenty of ‘chemical’ in there (DO NOT put bleach in with your toilet chemical, as a friend of mine discovered, this WILL result in an exploding chemical toilet) and don’t think too much about it.  There are regular emptying points around the system, however it is worth having a spare cassette as it will almost invariably fill up at the most inopportune moment and (in the winter) there’s always the possibility of being iced in.  Solution number two (which I’m not a great fan of but some people swear by) is a ‘pump out’.  The toilet looks a whole lot more like the one you’d have in a house and the effluent is secured out of sight below the floor.  Most boatyards and some British Waterways (BW) service points have pump out equipment, however unlike cassettes, which are free to empty at BW facilities, there will be a charge for this.  It’s a matter of personal taste when building a boat which is put in.  Most hire boats have pump-out toilets to avoid hirers having to deal with effluent, this is sensible for a variety of reasons not least that full cassettes are heavy and the chemical put in them is toxic.
+
+<figure class="img-left">
+    <img src="/assets/2010-12-24-bw-waterpoint.webp" alt="the outside of a British Waterways Waterpoint tower">
+    <figcaption>BW Waterpoint</figcaption>
+</figure>
+
+For the sake of completeness the third solution is a macerator or ‘sea-toilet’; these are perfectly legal on yachts but not on inland waterways craft with one exception.  Not all live-aboards do so on boats that are capable of moving.  Static houseboats can have macerators which are connected to the mains drains in the same way a house would be.  The macerator is there merely to make sure the sewage can fit through the narrow pipe.  Those I have talked to who live with this system find that while it works well most of the time, when it goes wrong it does so properly and leaves them without a functioning toilet.  Depending on the facilities available at their mooring this either means using a central toilet or going to stay with someone who has a house.
+
+**What about water?**
+
+Every boat has a water tank which is filled using a combination of a hose and one of the many BW taps which are scattered around the network and paid for via a boat’s cruising licence.
+
+**What do you do with your rubbish?**
+
+BW supply bins at regular intervals around the network.  Better service points also have recycling facilities which tend to be relatively well used.  There are some waste products which cannot be left at these points, for example used oil and batteries have to go to local municipal facilities; however, when you buy new batteries boatyards will take away your old ones for recycling so this shouldn’t be too much of a problem.  BW also provide litter bins in certain areas (usually around towns and cities), these are NOT to be used for boaters domestic waste and anyone caught misusing them in this way is generally in quite a lot of trouble, often from other boaters.  This is our life; we don’t want a minority of idiots ruining it for us.
+
+**Where does your electricity come from?**
+
+I can’t quite believe we still get asked this one, as a large number of live-aboard boaters now have wind-turbines and/or solar panels and it’s quite hard not to spot these; however we do.  So, solar and wind generation aside, most boats use their engines or a petrol generator to create power which is stored in batteries.  These are, yes, you guessed it, a bit like the one in your car, just more of them fastened together.  So now you know.
+
+Everything inside the boat will run on 12v, or occasionally 24v dc, unless the boat has a very large bank of batteries and runs an inverter which converts the stored energy to 230v ac.  A surprising amount of everyday stuff doesn’t actually require 230v in order to function anyway, and mains chargers/leads often step the voltage down, which means that things like mobile phones and even laptops can be run directly from a 12v supply.  You know the charger you have in your car to put a bit of power in your phone/laptop while you’re out and about?  Yeah, one of those.  Increased interest in being able to use things like computers, phones and televisions in cars has actually been a great thing for those of us who live on boats as it’s brought the prices down quite dramatically.
+
+**How often do you have to move?**
+
+<fig class="img-right">
+    <img src="/assets/2010-12-24-bw-patrol-notice.jpg">
+    <figcaption>BW Patrol Notice</figcaption>
+</fig>
+
+This is a difficult one; it depends where you moor in the first place. The assumption is that you can stay for a maximum of 14 days unless there are signs stating otherwise (some are 7 days, some 72, 48 or for very popular places even 24 hours).  In the winter however, it is possible to purchase a winter mooring which allows you to stay in the same place for 5 months.  If someone’s been on a mooring for a while and has a mooring licence which expires in March (BW mooring licences have a large coloured M in the middle of them) and hasn’t been issued with a patrol notice from BW, then they probably have a winter mooring for that location.  BW mark winter mooring sites with temporary notices as well, however these are often removed, so a lack of BW notices doesn’t mean a winter mooring isn’t available in that location.  If you want to check, I’m sure either a BW employee or a call to their head office will answer your question.  That said, not everyone who ‘overstays’ is on a winter mooring and not everyone who has a winter mooring will put their licence up.  Strange but true.
+
+**How much does it cost to buy a boat?**
+
+How long’s a piece of string?  It really depends what you’re looking for and whether it’s new/second-hand and how much work you want to put into it.  I wouldn’t pay less than £15,000 unless you really know your stuff. Always get a survey done on a second hand boat and check out whether there’s any debt connected to it (the debt belongs to the boat not the owner).  The boat should have a current cruising licence and a Boat Safety Scheme Certificate (BSC); don’t forget to find out when they’re due for renewal.  It’s also important to know whether any work’s been done on the gas and electricity systems since the last check – remember gas can kill you and electricity can cause fires; water is not so much of a problem, however if you do spring a leak things will get wet so it would be a good plan to give it a once over for glaring problems.  Do your research: buy a couple of waterways magazines such as [Waterways World](http://www.waterwaysworld.com/) or [Canal Boat](http://www.canalboat.co.uk/) and take a look at reputable websites and forums.  And, unless you are actually planning to cruise the whole system or at least a significant proportion of it, for goodness’ sakes FIND A MOORING!
+
+**Cost of living – or is it expensive living on a boat?**
+
+This is usually a selection of questions that people ask one after another.  Like living in a house there are both ‘fixed’ (licences) and ‘variable’ (consumables and temporary licences) costs.
+
+Licences:
+
+- _cruising licence_ which is payable annually and dependent on the length of the boat and where you intend to use it.  There are three main categories – river only (which covers BW controlled rivers), canal and river (sometimes known as a standard licence) and gold (which covers both BW and Environment Agency (EA) water such as the Thames).  There are temporary licences available for short periods spent on EA waters and it is possible to buy an annual EA licence for boats permanently on EA water.
+- _mooring licence_: BW mooring licences are usually dependent on the length of the boat, however private moorings may have different structures (charging more for wider boats or in some cases just a flat rate berth cost).  Not everywhere has an annual charge for a mooring, some charge on a monthly, quarterly, or semi-annual basis.
+
+Consumables:
+
+- _Gas_: how much gas you use will depend what you use it for – sound obvious?  Well, yes it is.  Boats can have gas cookers, gas fridges and gas water heating; not all boats will have all of the above and some may have both gas cookers and a solid fuel stove with an oven for winter cooking – you really, really wouldn’t want to use a solid fuel oven in the height of summer.  Water heating may be via a calorifier with heat coming from either and/or both the engine and solid fuel stove.  I use about 13.5kg of gas a month – my cooking, water heating and fridge are all powered by gas.
+- _Diesel_: if you have a diesel powered stove you will use more than if you don’t.  Either way you are entitled to declare a proportion of your fuel for ‘domestic purposes’ (often referred to as ‘heating’) this is the proportion of your fuel on which you will pay VAT at the reduced rate.  The rest of your fuel must be declared for propulsion (unless you are incapable of movement); this portion is subject to both VAT at the reduced rate and fuel duty.  The proportions will vary depending on your circumstances and are subject to a declaration at point of purchase, or annually if always purchased from the same location and your requirements are unlikely to change.  Prior to 01 November 2008 there was no duty due on red diesel for use by pleasure craft, this is no longer the case so while it may seem sensible to purchase your fuel on the black market it is an extremely bad idea.  As ever when VAT or duty are involved this is a very complicated area and the [Residential Boat Owners Association](http://www.rboa.org.uk/diesel4) do a far better job of explaining it than I do, if you are still confused it’s worth contacting [HM Revenue and Customs](http://www.hmrc.gov.uk/) for clarification.  THIS DOES NOT CONSTITUTE LEGAL OR TAX ADVICE.
+- _Coal_: I use somewhere between eight and ten 25kg bags of anthracite a month depending on how cold it is outside.  When possible I supplement this with wood.  There appears to be some confusion around the use of smoke-free fuels (such as anthracite) on boats.  Boats themselves are not exempt from the Clean Air Act however many appliances are.  Each country within the UK has different regulations and [DEFRA](http://www.defra.gov.uk/) publishes lists of the appliances which are exempt: the majority of solid fuel stoves used for heating boats appear to be included.  Please, check [these lists](http://smokecontrol.defra.gov.uk/appliances.php) before arguing that the Clean Air Act doesn’t apply to you.  However, traditional coal, like wood, tends to burns very hot and very quickly so it’s harder to keep a fire in over night with this type of fuel.  If you don’t mind getting up to a freezing boat in the morning go right ahead – personally I use a smoke-free coal and wake up to a merely chilly boat.
+- _Post Box_: unless you are lucky enough to have friends/family who are prepared to take post in for you or you aren’t planning to live on your boat full time and therefore have a house you can use to send post to, you’re going to need a post-box.  If you are moving a lot [poste restante](http://www.postoffice.co.uk/portal/po/content1?catId=19100252&mediaId=19100259) can be used along your route, however it is only available for 3 months in any one town and PO Boxes are only available to people who have a physical address in the area ([PO Box Terms and Conditions pdf](ftp://ftp.royalmail.com/Downloads/public/cmwalk/doc/active/doc52400005/PO%20Box%20December%2010.pdf)).  There are several companies such as [Mail Boxes Etc](http://www.mbe.co.uk/) which will allow you to take a box for a month, a quarter, 6 months or annually – charges are usually payable in advance and there’s often a surcharge for receiving parcels.  Even if you don’t get much post it’s worth it for the safety, and the fact you can give an address in the area which side steps the issue of you being a ‘traveller’.  If you live on a residential mooring this won’t be an issue as your mooring will have an address.
+
+**How do you claim benefits?**
+
+It may be the area I now live in but I’ve been asked this one a couple of times.  I don’t, I work for a living.  Some live-aboards do, and I’m sorry I have no idea how they manage it – it’s hard enough persuading the benefits agency that you need them when you live in a house, so it must be damn near impossible for those who do need to claim disability or state pensions who live on boats.
+
+**Do you pay income tax/council tax?**
+
+Er yes.  Everyone pays income tax and National Insurance when they’re working and have earned above the personal limit (currently £6,475) – further detail available from [HMRC: Income Tax Rates and Allowances](http://www.hmrc.gov.uk/rates/it.htm).  I am not an accountant – just capable of reading.
+
+Council tax: I thought I knew the answer to this one, however the more I look at it the more I realise I haven’t got a clue and, as I don’t have all year to become a specialist I am not even going to attempt to answer it.  I am not resident on a mooring which either has residential planning permission or which would not justifiably be refused it if it were applied for and, as I have already stated I am not an accountant, nor do I work for HMRC.  So, if you’re interested, details of how council tax is applied to both moorings and caravan pitches, is available from the [Valuation Office Agency: VOA Council Tax Manual – Practice Note 7: Application of Council Tax to Caravan Pitches and Moorings](http://www.voa.gov.uk/instructions/chapters/council_tax/council_tax_man_pn/Frame.htm).
+
+And finally:
+
+**Isn’t it romantic?**
+
+Yes, if you think hauling your own effluent around, and running out of water in the middle of a shower is romantic.  Yes, in the summer, sitting on the back deck with a glass of wine does seem quite appealing; I’ve even been known to do it.  Yes, if I dislike my neighbours I can just move.  Yes, I do have a freedom that isn’t truly available to those who live in houses.  It’s also hard, physical work, can be cold and I wouldn’t swap it for the best appointed house in the world.  Not even for the largest bath you can find.  Oh and any relationship which can survive living on a boat, is a relationship designed to last.

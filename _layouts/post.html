@@ -38,4 +38,15 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  {%- if page.tags -%}
+    <footer>
+      <h2>Tags</h2>
+      <ul>
+        {%- for tag in page.tags -%}
+        <li>{{ tag }}</li>
+        {%- endfor -%}
+      </ul>
+    </footer>
+  {%- endif -%}
 </article>
