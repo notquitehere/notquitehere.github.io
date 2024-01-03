@@ -41,7 +41,7 @@ layout: default
 
   {%- if page.tags -%}
     <footer>
-      <h2>Tags</h2>
+      <h2><a href={% link tags.md %}>Tags</a></h2>
       <ul>
         {%- for tag in page.tags -%}
         <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
