@@ -3,7 +3,6 @@ layout:     post
 title:      "Python battleship"
 date:       2015-05-16 21:22:43
 modified:   2015-05-16 21:22:43
-categories: code
 tags:       python
 published:  true
 ---

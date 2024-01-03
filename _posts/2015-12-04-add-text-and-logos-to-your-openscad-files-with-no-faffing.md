@@ -1,8 +1,7 @@
 ---
 title:      Add text and logos to your openSCAD files with no faffing
 date:       2015-12-04 00:31:02
-category:   3d-printing
-tags:       3d-printing, openSCAD,
+tags:       3d-printing openSCAD
 published:  true
 ---
 

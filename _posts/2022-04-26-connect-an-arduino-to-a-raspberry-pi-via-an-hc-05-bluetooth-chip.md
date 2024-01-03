@@ -5,6 +5,7 @@ modified: 2022-11-08
 published: true
 excerpt: "Walk through of how to connect an HC-05 bluetooth module to a Raspbery Pi and setting up a service to automatically connect the device on startup and disconnect."
 cover:
+tags: arduino raspberry-pi hc-05 bluetooth
 ---
 
 The £5 [HC-05 Bluetooth Transcever Module](https://thepihut.com/products/hc-05-bluetooth-module) is a popular choice for Arduino and Raspberry Pi projects however, it can be a touch fickle when it comes to connecting especially in the more recent iterations of [Rasbperry Pi OS](https://www.raspberrypi.com/software/).

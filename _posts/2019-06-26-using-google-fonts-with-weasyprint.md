@@ -2,8 +2,7 @@
 title: "Using Google Fonts With WeasyPrint - Two Ways"
 date: 2019-06-26
 modified: 2019-06-26
-tags: python, weasyprint, pdf-generation
-category: Python
+tags: python weasyprint pdf-generation
 published: true
 ---
 

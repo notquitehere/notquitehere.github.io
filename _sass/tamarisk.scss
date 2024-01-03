@@ -19,10 +19,29 @@ body {
     a {
         color: $link-color;
 
+        &:visited {
+            color: lighten($link-color, 10%)
+        }
+
         &:hover {
             text-decoration: none;
             border-bottom: 1px dotted;
             color: darken($link-color, 10%);
+        }
+    }
+
+    #tag-cloud {
+        .set-2 {
+            font-size: 1.5em;
+        }
+        .set-3 {
+            font-size: 2em;
+        }
+        .set-4 {
+            font-size: 2.5em;
+        }
+        .set-5 {
+            font-size: 3em;
         }
     }
 
@@ -134,7 +153,6 @@ body {
         margin: 0 auto;
         max-width: 100%;
     }
-
 }
 
 @include media-query($on-palm) {

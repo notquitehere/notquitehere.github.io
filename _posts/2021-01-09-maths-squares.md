@@ -2,8 +2,7 @@
 title: "Home Learning: Maths Squares"
 date: 2021-01-09
 modified: 2021-01-09
-tags:
-category: Home Learning
+tags: home-learning
 published: false
 ---
 

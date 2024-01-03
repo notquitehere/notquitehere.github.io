@@ -1,8 +1,7 @@
 ---
 title:      3D Printing with Ninjaflex on a Mendel90
 date:       2016-08-18 16:46:01
-category:   3d-printing
-tags:       3d-printing, Ninjaflex
+tags:       3d-printing ninjaflex
 published:  true
 ---
 

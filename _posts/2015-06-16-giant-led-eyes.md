@@ -2,8 +2,7 @@
 title:      Giant LED eyes
 date:       2015-06-16 19:41:07
 modified:   2015-06-16 19:41:07
-tags:       3d-printing
-category:   3d-printing
+tags:       3d-printing maker
 published:  true
 ---
 

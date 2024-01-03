@@ -1,7 +1,6 @@
 ---
 title:      Giant LED eyes v2
-tags:       3d-printing, bugzilla
-category:   3d-printing
+tags:       3d-printing bugzilla maker
 published:  true
 ---
 

@@ -23,6 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Notebook of an easily distracted coder.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# socials
 twitter_username: NotQuiteHere
 github_username:  notquitehere
 mastodon:
@@ -37,11 +39,19 @@ minima:
 
 permalink: /:title
 
+# tags
+tag_page_layout: tag_page
+tag_page_dir: tag
+# tag_feed_layout: tag_feed
+# tag_feed_dir: tag
+tag_permalink_style: pretty
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-octicons
+  - jekyll-tagging
 
 collections:
   qtquick:

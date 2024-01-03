@@ -2,8 +2,7 @@
 title:      "Silly Strings: Passwords in Python"
 Date:       2015-11-15
 updated:    2023-12-27
-category:   cryptography
-tags:       Python, Cryptography, Flask, WordPress
+tags:       python cryptography flask
 published:  true
 ---
 

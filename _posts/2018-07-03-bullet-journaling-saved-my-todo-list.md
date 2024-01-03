@@ -2,8 +2,7 @@
 title: Bullet Journaling Saved My Todo List
 date: 2018-07-03
 modified: 2018-07-12
-tags: todo-list, organisation, bullet-journaling
-category: life-hacking
+tags: todo-list organisation bullet-journaling
 published: true
 cover: /assets/2018-07-03-bullet_journal_month.jpg
 excerpt: Paper lists have always failed me and my digital todo list was going the same way, with tasks festering undone for months on end. Bullet Journaling helped me fix it.

@@ -1,7 +1,6 @@
 ---
 title:      It's alive! Alive!
-category:   Arduino
-tags:       Arduino, Bugzilla
+tags:       arduino bugzilla
 published:  true
 ---
 

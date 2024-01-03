@@ -4,6 +4,7 @@ date: 2022-04-20
 published: true
 excerpt: A walkthrough of the process of setting up a React and Flask project on Ubuntu 18.04 using Nginx and uWSGI
 cover:
+tags: python react flask ubuntu
 ---
 
 Prerequities:

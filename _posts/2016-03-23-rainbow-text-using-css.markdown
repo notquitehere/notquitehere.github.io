@@ -1,8 +1,7 @@
 ---
 title:      Rainbow text using CSS
 date:       2016-03-23 12:13:23
-category:   Code
-tags:       Code, CSS, Rainbows, Notes
+tags:       code CSS rainbows
 ---
 
 I fancied making some rainbow text for a project I'm working on, and in order to maintain accessibility, I wanted to do it using css. It turns out that that isn't actually too difficult. All you need to do is:

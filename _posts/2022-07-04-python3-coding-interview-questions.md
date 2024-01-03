@@ -2,7 +2,7 @@
 title: "Answering common code interview questions in Python 3"
 date: 2022-07-04
 published: true
-tags: python, interviewing
+tags: python interviewing
 category:
 ---
 

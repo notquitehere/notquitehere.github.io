@@ -4,6 +4,7 @@ date: 2018-06-03
 published: true
 excerpt: "Accessing and manipulating the contents of the Mac clipboard using Python3."
 cover:
+tags: python
 ---
 
 Sometimes I make a lot of effort in order to be extremely lazy. In this instance I got bored of manually generating folder names from book titles so decided to create a script to do it for me.

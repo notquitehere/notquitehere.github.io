@@ -2,7 +2,7 @@
 title: "Using a Knowledge Management System"
 date: 2022-07-27
 published: true
-tags: pkm, obsidian
+tags: pkm obsidian
 category:
 excerpt: "Using a personal knowledge management system has revitalised my learning and reinforced good habits."
 cover: /assets/2022-07-27-cover.jpg
@@ -15,7 +15,7 @@ When [@BadSpyro](https://twitter.com/badspyro) first introduced me to the concep
 This is one of the reasons I use plain text editors and markdown for everything. It’s why I moved my blog from WordPress to <a href="https://getpelican.com/">Pelican</a> and subsequently <a href="https://ghost.org/">Ghost</a>. I don’t want to spend more time messing about with layout than I do actually writing the thing I’m working on. Equally, I don’t want to spend longer fiddling with the storage system for my notes than I do taking them.
 
 
-Atomic knowledge management however turned out to be another of those things, like [Bullet Journaling](/bullet-journaling-saved-my-to-do-list), that actually worked for me.
+Atomic knowledge management however turned out to be another of those things, like {% post_url 2018-07-03-bullet-journaling-saved-my-todo-list %}, that actually worked for me.
 
 ## How it works
 

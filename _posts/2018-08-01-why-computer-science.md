@@ -2,8 +2,7 @@
 title: Why Computer Science?
 date: 2018-09-11
 modified: 2018-09-11
-tags: university, coding
-category: University
+tags: university coding
 published: true
 excerpt: Having graduated 15 years ago(!) with a humanities degree I occasionally get questions about why I'm going back to university to study Computer Science. As I'm planning on blogging my experiences I thought I'd start with why I've chosen to go back, and what inspired me in the first place.
 ---

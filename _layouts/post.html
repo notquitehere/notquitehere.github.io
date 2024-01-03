@@ -44,7 +44,7 @@ layout: default
       <h2>Tags</h2>
       <ul>
         {%- for tag in page.tags -%}
-        <li>{{ tag }}</li>
+        <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
         {%- endfor -%}
       </ul>
     </footer>

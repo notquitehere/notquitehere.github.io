@@ -5,7 +5,7 @@ modified: 2022-02-18
 published: true
 excerpt:
 cover: /assets/2016-02-04-becky-bat.jpg
-tags: maker
+tags: maker arduino
 ---
 
 

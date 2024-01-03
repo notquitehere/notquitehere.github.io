@@ -2,8 +2,7 @@
 title: 'Hacking Femininity Part 1: Skincare'
 date: 2018-06-19
 modified: 2018-06-19
-tags: Skincare, Off-topic
-category: Femininity
+tags: skincare femininity
 published: true
 ---
 

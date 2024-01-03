@@ -2,8 +2,7 @@
 title: What Do You Mean A Comma Is An Illegal Format String Specifier?
 date: 2018-10-23
 modified: 2018-10-23
-tags: Java, University
-category: Java
+tags: java university
 published: true
 excerpt: "Learning Java at university: life lessons. Sometimes it's the silly things that have you stuck for longer than you'd like to admit."
 ---
