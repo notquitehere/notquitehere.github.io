@@ -85,6 +85,7 @@ body {
             object-fit: cover;
         }
     }
+
     .two-by-one {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -102,6 +103,15 @@ body {
     .img-right {
         float: right;
         margin-left: 1em;
+    }
+
+    .example-output {
+        img {
+            border-radius: 6px;
+            box-shadow: 0 1px 3px #afb5c0;
+            max-width: 100%;
+            height: auto;
+        }
     }
 
     .alert {
