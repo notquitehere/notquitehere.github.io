@@ -55,7 +55,7 @@ I think I did OK. While this cake is not a lie, it IS lying, from the outside it
 
 1. Heat milk and chocolate until melted and combined, cool to room temperature.
 2. Pre-heat oven to 175 deg C. Grease and line two 8" cake rounds.
-3. Cream butter and sugar sugar until pale and fluffy.
+3. Cream butter and sugar until pale and fluffy.
 4. Add eggs one at a time and beat until fully combined (if you're using a kitchen machine slow down for this step).
 5. Alternate adding flour and milk, mixing until fully combined in between additions. Start and end with flour (3 flour, 2 milk).
 6. Bake for 20-40 minutes or until a skewer inserted into the center of the cake comes out clean.
