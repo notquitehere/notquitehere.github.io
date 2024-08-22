@@ -31,6 +31,12 @@ body {
     }
 
     #tag-cloud {
+        max-width: 80rem;
+        margin: 0 auto;
+        line-height: 2;
+        a {
+            padding-right: 1rem;
+        }
         .set-2 {
             font-size: 1.5em;
         }
