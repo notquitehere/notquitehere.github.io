@@ -7,7 +7,7 @@ excerpt: "Recipe: replicating the Portal Cake."
 tags: recipe
 ---
 
-When asked what kind of cake he'd like for his birthday my husband responded with this
+When asked what kind of cake he'd like for his birthday [my husband](https://philipmcgaw.com) responded with this
 
 ![Portal Cake](/assets/2023-11-25-portal_cake.jpeg){:.img-center}
 

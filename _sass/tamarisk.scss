@@ -96,6 +96,14 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .three-by-one {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .one-by-two {
+        grid-template-rows: repeat(2, 25%);
+    }
+
     .four-by-two {
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: repeat(2, 25%);
@@ -109,6 +117,10 @@ body {
     .img-right {
         float: right;
         margin-left: 1em;
+    }
+
+    .img-md {
+        max-width: 50%;
     }
 
     .example-output {
