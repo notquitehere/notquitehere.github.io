@@ -1,9 +1,10 @@
 ---
 title:      "Aurora spotting in Lapland"
-date:       2025-03-15
-published:  false
+date:       2025-04-19
+published:  true
 cover:      /assets/2025-03-15-header.jpeg
 tags:       trip review
+excerpt:    "Notes on our bucket list trip: Aurora spotting in the Arctic Circles."
 ---
 
 We ([Skippy](https://philipmcgaw.com) and I) are not affiliated with either the
@@ -12,11 +13,8 @@ for with our own money.
 
 ## The Aurora Zone
 
-We booked a last-minute tailor-made package to Wilderness Hotel Nellim via the Aurora Zone. From contacting them via
-their website to actually booking the holiday the whole process was seamless and our contact was extremely helpful. We
-booked via email which meant we could respond asynchronously and had time to make decisions; beware though, if you
-take too long to respond you have to be more flexible with your plans. We intended to go to Wilderness Hotel Inari but by the time we had decided what we wanted to do while we were there the room
-had gone. Fortunately they still had space at Nellim so we kept our plan as it was and switched location.
+Despite this being a bucket list item the actual decision to go on this trip was spur of the moment so for us the whole
+booking and decision making process was pretty speedy. The Aurora Zone staff were extremely accommodating; we booked via email which meant we could respond asynchronously and had time to make decisions.
 
 The Aurora Zone's holidays are all inclusive: flights (Finnair in our case), shuttle bus to/from the hotel, full board
 and cold weather gear. They have a comprehensive packing list available on their website and I recommend you follow it:
@@ -26,7 +24,7 @@ you're travelling with more than one person and carrying a set of thermals as we
 in your hand luggage. Fortunately none of our luggage went astray but this is still excellent advice.
 
 The draft itinerary we were sent had us doing two aurora hunts on the same night however a quick email to the team
-confirmed that that wasn't going to be the case in reality. Apart from that all the salient information was correct.
+confirmed that that wasn't going to be the case in reality. Apart from that, all the salient information was correct.
 
 The only issue we had during the preparatory phase was Finnair cancelling our flight the day before we were due to
 travel and that was solved within half an hour by Finnair themselves. The plane we ended up taking was only 25
@@ -34,21 +32,21 @@ minutes later than the one were originally booked on, leaving us plenty of time 
 
 ## Travel
 
-Apart from the few minutes of fretting caused by the change of plane, the whole process went really smoothly. Helsinki
-is a relatively small airport so 45 minutes (the recommended minimum) is more than enough time to transfer, including
-negotiating passport control. Our bags were checked right through in both directions so we just had to get ourselves
-across the airport. If you happen to be transferring around a meal time I strongly recommend getting at least a snack
-though as we were really hungry by the time we got to the hotel.
+Apart from the few ~~hours~~ minutes of fretting caused by the change of plane, the whole trip went really smoothly.
+Helsinki is a relatively small airport so 45 minutes (the recommended minimum) is more than enough time to transfer,
+including negotiating passport control. Our bags were checked right through in both directions so we just had to get
+ourselves across the airport. If you happen to be transferring around a meal time I strongly recommend getting at least
+a snack in the airport as we were really hungry by the time we got to the hotel.
 
 ### Airport transfer
 
 Inbound the coach driver was waiting for us with a sign saying "Hotel Wilderness Nellim", the drivers have a list of
 who they should be collecting so make sure you make yourself known to them. Once everyone had arrived we were taken to
-the coach as a group and the driver checked again that we were all on the correct bus.
+the coach as a group and the driver checked again that we were all on the correct bus before setting off.
 
 On the way back my watch alarm failed however the bus driver came in to the hotel to check with the reception staff who
-in turn came to get us. We were back at the airport 20 minutes or so before baggage check opened so the whole process
-was very smooth.
+in turn came to get us. We were back at the airport 20 minutes or so before baggage check opened which allowed enough
+time to get a bag tag ready and have a brew once through security.
 
 ## Wilderness Hotel, Nellim
 
@@ -65,12 +63,12 @@ operate things.
 We didn't get our cold weather gear until the morning, but as we were utterly exhausted from travelling we barely
 noticed.
 
-[^boots]: Boots will be two sizes too big, if you're getting heal slippage as I was it's worth taking some time to experiment with the best place to "lock" your laces. If you've not laced boots this way before [check out this video](https://youtu.be/AbUAMPQDjyk?feature=shared) (or type "heel lock" into your search engine of choice for a guide.
+[^boots]: Boots will be two sizes too big, if you're getting heal slippage as I was it's worth taking some time to experiment with the best place to "lock" your laces. If you've not laced boots this way before [check out this video](https://youtu.be/AbUAMPQDjyk?feature=shared) (or type "heel lock" into your search engine of choice) for a guide.
 
 ### Food
 
 All the meals were buffet style, tasty and plentiful, there was a desert available for both lunch and dinner. Coffee is
-only available with breakfast however, you can buy coffee and hot chocolate from the bar throughout the day. There was
+only available with breakfast however you can buy coffee and hot chocolate from the bar throughout the day. There was
 also a kettle provided in our room for us to make our own hot drinks.
 
 We had one activity which included lunch: this was a hot meal of reindeer meat and vegetables complemented by potato
@@ -98,7 +96,7 @@ we took part in pushed anyone too far beyond their comfort zone.
 
 #### Cross country skiing
 
-There are a few techniques to learn before you can head off cross country skiing starting with how to move forwards.
+There are a few techniques to learn before you can head off cross country skiing; starting with how to move forwards.
 It's an odd sensation and every time I got into a rhythm I noticed and lost it again. For a lot of the time we were
 following the tracks of the person in front of us which made going in the right direction very easy however we did get
 a chance to try heading off on our own through fresh snow over the lake which is a totally different sensation.
@@ -106,7 +104,7 @@ a chance to try heading off on our own through fresh snow over the lake which is
 I tried both of the techniques for going up hill: walking like a penguin was more effective for very steep hills (this
 hill was optional), while the slide and stamp technique to bind the ski into place was pretty good for shallower ones.
 
-Downhill is pretty easy as it's mostly a case of letting gravity do its thing and not falling over.
+Downhill is mostly a case of letting gravity do its thing and not falling over.
 
 {:.gallery.two-by-one}
 ![Three people cross country skiing on a lake. Two are standing and chatting while one of them changes their hat. The third is concentrating on moving forward.](/assets/2025-03-15-cross-country-skiing.jpeg)
