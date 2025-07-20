@@ -90,10 +90,18 @@ body {
             height: 100%;
             object-fit: cover;
         }
+        figure {
+            padding-bottom: 1em;
+        }
     }
 
     .two-by-one {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .two-by-two {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 25%);
     }
 
     .three-by-one {
