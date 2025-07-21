@@ -1,10 +1,11 @@
 ---
 title:      "Fractals in Rust"
-date:       2025-07-19
-published:  true
-cover:      /assets/2025-07-19-julia.png
-tags:       rust fractals
-excerpt:    Unravelling the math behind Julia sets and colour gradients through the medium of rust.
+date:           2025-07-19
+published:      true
+cover:          /assets/2025-07-19-julia.png
+tags:           rust fractals
+excerpt:        Unravelling the math behind Julia sets and colour gradients through the medium of rust.
+discussion_id:  2025-07-19-fractals-in-rust
 ---
 
 Rust and Python have a common problem: they both make it really easy to do very complex things in a single step. As a
@@ -243,7 +244,7 @@ To see how far we've come from the original output of the code, here it is side 
     </figure>
     <figure>
         <img alt="Colour Julia set using the updated code" src="/assets/2025-07-19-julia6.png">
-        <figcaption>Coulour Julia set using the updated code</figcaption>
+        <figcaption>Colour Julia set using the updated code</figcaption>
     </figure>
 </div>
 

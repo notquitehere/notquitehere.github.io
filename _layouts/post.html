@@ -33,6 +33,8 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-content e-content" itemprop="comments">{% include talkyard-comments.html %}</div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
