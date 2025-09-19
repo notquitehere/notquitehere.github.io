@@ -3,6 +3,7 @@ title: "Tracking my reading in Obsidian"
 date: 2024-06-30
 published: true
 tags: obsidian
+updated: 2025-08-24
 # excerpt: ""
 # cover:
 ---
@@ -26,8 +27,6 @@ like this one it's better to keep it all together in a single folder. So I start
 setting up my Book Search Plugin to always add new books to it.
 
 I also created a `book-note` template to be used when I invoke "Create a New Book Note".
-
-
 
 ## Shelves
 
@@ -152,7 +151,7 @@ function booksReadThisYear(allBooks) {
     return bookList
 }
 
-const booksRead = booksReadThisYear(dv.pages('"biblioteca"').where(b => b.readDates));
+const booksRead = booksReadThisYear(dv.pages('"library"').where(b => b.readDates));
 
 dv.table(
     ["cover", "title", "author", "series", "read on"],
